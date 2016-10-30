@@ -1,0 +1,41 @@
+
+	.but{
+		width: 100%;
+		height: 70px;
+	}
+	.taicon{
+		font-size: 25px;
+	}
+	input{
+		width: 100%;
+		height: 70px;
+		color: #777;
+		font-size:40px;
+		text-align: center;
+	}
+	body{
+		background: rgb(255,255,255);
+	}
+	.logo{
+		height: 120px;
+	}
+	h2,h4{
+		text-align: center;
+		color: #777;
+	}
+	.opi{
+		font-size: 50px;
+		transition: .7s;
+	}
+	.meencanta:hover{
+		color: rgb(192, 57, 43);
+	}
+	.megusta:hover{
+		color: rgb(26, 188, 156);
+	}
+	.nomegusta:hover{
+		color: rgb(243, 156, 18);
+	}
+	.numero{
+		background: rgb(133, 193, 233);
+	}
